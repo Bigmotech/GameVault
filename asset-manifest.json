@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GameVault/static/css/main.073c9b0a.css",
-    "main.js": "/GameVault/static/js/main.edd6d426.js",
+    "main.js": "/GameVault/static/js/main.8d472b43.js",
     "static/js/787.9acce357.chunk.js": "/GameVault/static/js/787.9acce357.chunk.js",
     "index.html": "/GameVault/index.html",
     "main.073c9b0a.css.map": "/GameVault/static/css/main.073c9b0a.css.map",
-    "main.edd6d426.js.map": "/GameVault/static/js/main.edd6d426.js.map",
+    "main.8d472b43.js.map": "/GameVault/static/js/main.8d472b43.js.map",
     "787.9acce357.chunk.js.map": "/GameVault/static/js/787.9acce357.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.edd6d426.js"
+    "static/js/main.8d472b43.js"
   ]
 }
