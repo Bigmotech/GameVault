@@ -4334,13 +4334,13 @@
     {
         "Name": "Stellaris: Leviathans Story Pack",
         
-        "Claimed": "Unclaimed",
+        "Claimed": "Claimed",
         "id": 723
     },
     {
         "Name": "Stellaris: Plantoids Species Pack",
         
-        "Claimed": "Unclaimed",
+        "Claimed": "Claimed",
         "id": 724
     },
     {
@@ -5290,5 +5290,53 @@
         
         "Claimed": "Unclaimed",
         "id": 882
+    },
+    {
+        "Name": "Doom Eternal",
+        "Claimed": "Claimed",
+        
+        "id": 882
+    },
+    {
+        "Name": "Tribes Of Midgard",
+        
+        "Claimed": "Unclaimed",
+        "id": 883
+    },
+    {
+        "Name": "Encased: A Sci-Fi Post-Apocalyptic RPG",
+        
+        "Claimed": "Unclaimed",
+        "id": 884
+    },
+    {
+        "Name": "OlliOlli World - Rad Edition ",
+        
+        "Claimed": "Claimed",
+        "id": 885
+    },
+    {
+        "Name": "Grow: Song of the Evertree ",
+        
+        "Claimed": "Unclaimed",
+        "id": 886
+    },
+    {
+        "Name": "Conan Chop Chop ",
+        
+        "Claimed": "Unclaimed",
+        "id": 887
+    },
+    {
+        "Name": "Hokko Life",
+        
+        "Claimed": "Unclaimed",
+        "id": 888
+    },
+    {
+        "Name": "The Serpent Rogue",
+        
+        "Claimed": "Unclaimed",
+        "id": 889
     }
 ]
