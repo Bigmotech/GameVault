@@ -1,5 +1,5 @@
 import { React, useState } from 'react'
-import data from "./games.json"
+import data from "./vault.json"
 import Box from '@mui/material/Box';
 import { DataGrid } from '@mui/x-data-grid';
 
